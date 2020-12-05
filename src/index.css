@@ -62,7 +62,7 @@ h6{
 .menu_style {
     width: 100%;
     line-height: 60px;
-    background-color: rgb(185, 22, 22);
+    background-color: rgb(22, 185, 71);
     display: flex;
     justify-content: space-around;
 }
